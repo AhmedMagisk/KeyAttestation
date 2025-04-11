@@ -33,7 +33,7 @@ android {
         minSdk = 24
         targetSdk = 35
         versionCode = gitCommitCount
-        versionName = '1.8.4'
+        versionName = '3.2.1'
         resourceConfigurations += ['en', 'zh-rCN', 'zh-rTW', 'pt-rBR', 'el']
         optimization {
             keepRules {
